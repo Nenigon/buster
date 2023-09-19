@@ -39,7 +39,7 @@
     "@fontsource/roboto": "^4.5.8",
     "audiobuffer-to-wav": "^1.0.0",
     "bowser": "^2.11.0",
-    "core-js": "^3.26.1",
+    "core-js": "^3.32.1",
     "crypto-js": "^4.1.1",
     "p-queue": "^7.3.0",
     "uuid": "^9.0.0",
