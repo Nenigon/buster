@@ -47,7 +47,7 @@
     "vuetify": "^3.0.5",
     "vueton": "^0.1.4",
     "webextension-polyfill": "^0.10.0",
-    "wesa": "^0.3.0"
+    "wesa": "^0.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
