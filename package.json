@@ -43,7 +43,7 @@
     "crypto-js": "^4.1.1",
     "p-queue": "^7.3.0",
     "uuid": "^9.0.0",
-    "vue": "^3.2.45",
+    "vue": "^3.3.5",
     "vuetify": "^3.0.5",
     "vueton": "^0.1.4",
     "webextension-polyfill": "^0.10.0",
